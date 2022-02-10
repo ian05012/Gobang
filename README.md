@@ -12,6 +12,6 @@ https://reurl.cc/Zr4vyp
 
 使用到工具&心得
 -------------
-**Discord Java API**
-**Graphics2D**
-**Cloudinary**
+**Discord Java API**  
+**Graphics2D**  
+**Cloudinary**  
