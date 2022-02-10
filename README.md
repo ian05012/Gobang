@@ -5,3 +5,5 @@
 
 **遊玩示範影片**
 https://youtu.be/kiuVlqV4YZE
+**機器人邀請連結**
+https://reurl.cc/Zr4vyp
