@@ -11,6 +11,7 @@ https://reurl.cc/Zr4vyp
 
 前置設定&指令
 -------------  
+
 所有指令皆使用Slash Command(斜線指令)
 直接輸入沒有用滴!
 ![image](https://user-images.githubusercontent.com/70361961/153366048-e17f5618-bf74-4cb2-917b-196a48d71a09.png)  
@@ -23,7 +24,8 @@ https://reurl.cc/Zr4vyp
 ```/play @tag用戶```    
 就可以邀請一位用戶跟你對戰啦~    
 ![image](https://user-images.githubusercontent.com/70361961/153385786-47384cd1-184d-41d6-b3ca-1084edad4434.png)    
-剩下的都是透過按鈕來操作      
+剩下的都是透過按鈕來操作  
+
 使用到工具&心得
 -------------  
 **Discord Java API**  
