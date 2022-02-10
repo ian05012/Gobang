@@ -14,18 +14,18 @@ https://reurl.cc/Zr4vyp
 所有指令皆使用Slash Command(斜線指令)
 直接輸入沒有用滴!
 ![image](https://user-images.githubusercontent.com/70361961/153366048-e17f5618-bf74-4cb2-917b-196a48d71a09.png)  
-```/set 類別ID```
-邀請機器人進伺服器的第一件事，是設定五子棋戰場的類別。(只有管理員能操作)
-設定好之後，棋局頻道就會創建在該類別下方
-如下圖
-![image](https://user-images.githubusercontent.com/70361961/153370787-81121177-0a2c-4ec0-8b19-dfd63aa67192.png)  
-如果要遊玩的的話，只需輸入  
-```/play @tag用戶```  
-就可以邀請一位用戶跟你對戰啦~  
-![image](https://user-images.githubusercontent.com/70361961/153385786-47384cd1-184d-41d6-b3ca-1084edad4434.png)  
-剩下的都是透過按鈕來操作  
+```/set 類別ID```  
+邀請機器人進伺服器的第一件事，是設定五子棋戰場的類別。(只有管理員能操作)  
+設定好之後，棋局頻道就會創建在該類別下方  
+如下圖  
+![image](https://user-images.githubusercontent.com/70361961/153370787-81121177-0a2c-4ec0-8b19-dfd63aa67192.png)    
+如果要遊玩的的話，只需輸入    
+```/play @tag用戶```    
+就可以邀請一位用戶跟你對戰啦~    
+![image](https://user-images.githubusercontent.com/70361961/153385786-47384cd1-184d-41d6-b3ca-1084edad4434.png)    
+剩下的都是透過按鈕來操作      
 使用到工具&心得
--------------
+-------------  
 **Discord Java API**  
 https://github.com/DV8FromTheWorld/JDA  
 這個不是第一次接觸的，在之前就做過很多次Bot了。不過其中的Button是我第一次使用，也算是學到新的東西。  
