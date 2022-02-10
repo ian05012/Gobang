@@ -10,7 +10,10 @@ https://youtu.be/kiuVlqV4YZE
 https://reurl.cc/Zr4vyp
 
 前置設定&指令
--------------
+-------------  
+所有指令皆使用Slash Command(斜線指令)
+直接輸入沒有用滴!
+![image](https://user-images.githubusercontent.com/70361961/153366048-e17f5618-bf74-4cb2-917b-196a48d71a09.png)
 
 使用到工具&心得
 -------------
