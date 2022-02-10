@@ -9,7 +9,9 @@ https://youtu.be/kiuVlqV4YZE
 **機器人邀請連結**
 https://reurl.cc/Zr4vyp
 
-
+前置設定&指令
+-------------
+```set```
 使用到工具&心得
 -------------
 **Discord Java API**  
