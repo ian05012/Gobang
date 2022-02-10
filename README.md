@@ -13,7 +13,12 @@ https://reurl.cc/Zr4vyp
 -------------  
 所有指令皆使用Slash Command(斜線指令)
 直接輸入沒有用滴!
-![image](https://user-images.githubusercontent.com/70361961/153366048-e17f5618-bf74-4cb2-917b-196a48d71a09.png)
+![image](https://user-images.githubusercontent.com/70361961/153366048-e17f5618-bf74-4cb2-917b-196a48d71a09.png)  
+```/set 類別ID```
+邀請機器人進伺服器的第一件事，是設定五子棋戰場的類別。
+設定好之後，棋局頻道就會創建在該類別下方
+如下圖
+![image](https://user-images.githubusercontent.com/70361961/153370787-81121177-0a2c-4ec0-8b19-dfd63aa67192.png)  
 
 使用到工具&心得
 -------------
